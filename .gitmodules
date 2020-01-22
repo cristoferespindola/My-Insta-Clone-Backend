@@ -1,0 +1,4 @@
+[submodule "My-Insta-clone"]
+	path = My-Insta-clone
+	url = https://github.com/cristoferespindola/My-Insta-clone
+	branch = master
